@@ -8,3 +8,18 @@ Once it is cloned, navigate to the folder using your terminal and run:
 bundle install
 </code>
 
+Next, create your database tables by running:
+
+<code>
+rake db:migrate
+</code>
+
+Start your Rails server:
+
+<code>
+rails server
+</code>
+
+== Your Mission
+
+The Rails application has the required routes, controller actions, and model. All you need to do is get the appropriate views working for each of the CRUD operations for movies.

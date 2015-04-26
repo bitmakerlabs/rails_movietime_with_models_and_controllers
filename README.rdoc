@@ -4,7 +4,7 @@ Fork this repo and then clone it onto your computer.
 
 Once it is cloned, navigate to the folder using your terminal and run:
 
-+
+<code>
 bundle install
-+
+</code>
 
